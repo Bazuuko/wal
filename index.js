@@ -12,6 +12,8 @@
     @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Saira:wght@500&display=swap');
   
       </style>
+
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
 </head>
 <body class="h-full" style="background-color:#fff7de">
 
